@@ -1,6 +1,6 @@
 function initSectors(sectors, callback, config = {
     canvasID: null,
-    mapBorder: 1000,
+    mapBorder: 10000,
     highlightColor: 'rgba(255, 255, 255, 0.25)',
     defaultOffset: {
         text: {
